@@ -11,7 +11,7 @@
 
 ## Compilador
 
-- `GHC 9.10.1`
+- `GHC 9.10.1`.
 - [OnlineGDB](https://www.onlinegdb.com/)
 
 ## Descripción del Proyecto
