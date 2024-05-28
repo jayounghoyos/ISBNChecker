@@ -5,6 +5,15 @@
 - Juan Andrés Young Hoyos.
 - Daniel Lopez Londoño.
 
+## Link del Video
+
+[Link del Video de YouTube](https://youtu.be/NxMNRwLedDs?si=uE0QZlltg6ux0_Gp)
+
+## Compilador
+
+- `GHC 9.10.1`
+- [OnlineGDB](https://www.onlinegdb.com/)
+
 ## Descripción del Proyecto
 
 Este proyecto consiste en la creación de un programa en Haskell para identificar las características de los códigos de inscripción de los estudiantes de pregrado en la Universidad EAFIT. El objetivo es analizar y desglosar los códigos de inscripción en sus componentes principales y proporcionar información relevante sobre cada uno.
